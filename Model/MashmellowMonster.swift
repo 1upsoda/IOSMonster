@@ -73,8 +73,18 @@ public class MarshmellowMonster
 		self.eyeCount = eyeCount
 	}
 	
+	func setNoseCount (noseCount :Int)
+	{
+		self.noseCount = noseCount
+	}
 	
+	func setArmCount (armCount :Int)
+	{
+		self.armCount = armCount
+	}
 	
-	
-	
+	func setHasBellyButton (hasBellyButton :Bool)
+	{
+		self.hasBellyButton = hasBellyButton
+	}
 }
